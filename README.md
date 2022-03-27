@@ -1,0 +1,3 @@
+# Sample-photography-site
+
+A photo gallery showing my CSS skills...
